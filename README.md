@@ -12,7 +12,7 @@
 ## C#
 1. [Star pattern programs](https://www.csharpstar.com/star-pattern-programs-in-csharp/)
 1. [HoGent De Wolf](https://users.hogent.be/de-wolf/csharp/)
-1. [Exercism C#](https://exercism.io/tracks/csharp/exercises
+1. [Exercism C#](https://exercism.io/tracks/csharp/exercises)
 1. [Practity](https://practity.com/csharp/)
 1. [Learn c sharp the hard way](https://www.exercisescsharp.com/2013/06/learn-c-sharp-hard-way.html)
 1. [Cursus C#](http://cursus5soc.sportenhandelsschool.be/Hoofdstuk1.html)

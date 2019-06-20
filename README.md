@@ -5,7 +5,7 @@
 1. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 1. [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 1. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-1. [Free for Students](https://github.com/shalvah/Free-for-students]
+1. [Free for Students](https://github.com/shalvah/Free-for-students)
 1. [Programming Notes for Professionals books - Stack Overflow](https://goalkicker.com/)
 
 

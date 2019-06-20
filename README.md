@@ -1,6 +1,6 @@
-# CodingLinks
+# Coding Links
 
-# E-Book-links
+# Links
 1. [How To Be A Programmer](https://github.com/braydie/HowToBeAProgrammer)
 1. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 1. [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)

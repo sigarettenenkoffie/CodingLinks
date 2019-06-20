@@ -6,6 +6,9 @@
 1. [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 1. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 1. [Free for Students](https://github.com/shalvah/Free-for-students)
+1. [SoloLearn](https://code.sololearn.com)
+
+# Books
 1. [Programming Notes for Professionals books - Stack Overflow](https://goalkicker.com/)
 
 
